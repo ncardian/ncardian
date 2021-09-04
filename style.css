@@ -12,7 +12,7 @@ h1 {
     width: 700px;
     background-color: #F5F5F5;
     margin: 0 auto;
-    border: 5px solid ##000000;
+    border: 5px solid #000000;
     display: grid;
     grid-template-columns: repeat(5, 1fr);
     grid-template-rows: repeat(3, 1fr);
