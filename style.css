@@ -10,7 +10,7 @@ h1 {
 #container {
     height: 200px;
     width: 700px;
-    background-color: #00FFFF;
+    background-color: #FF0000;
     margin: 0 auto;
     border: 5px solid #f08080;
     display: grid;
