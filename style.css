@@ -1,5 +1,5 @@
 html {
-    background-color: #FF0000;
+    background: linear-gradient(#000000, #FF0000); 
     height: 100%;
 }
 h1 {
